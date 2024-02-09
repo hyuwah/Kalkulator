@@ -19,11 +19,16 @@ It uses [mXparser](https://mathparser.org/) as it's expression evaluator by defa
 
 Light Theme
 
-![Light Theme](https://res.cloudinary.com/hyuwah-github-io/video/upload/v1707476748/Kalkulator/kalkulator-light-theme.mp4)
+https://github.com/hyuwah/Kalkulator/assets/5181388/1422fc54-1160-49b1-91b7-a8758ac17c15
+
+
+
 
 Dark Theme
 
-![Dark Theme](https://res.cloudinary.com/hyuwah-github-io/video/upload/v1707476747/Kalkulator/kalkulator-dark-theme.mp4)
+https://github.com/hyuwah/Kalkulator/assets/5181388/3630c1ea-2cf9-41b6-9116-b77e758e8799
+
+
 
 ## Tech Stack
 - JDK `1.8`
